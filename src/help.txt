@@ -1,0 +1,13 @@
+Follow the instructions below to use the spell checker:
+
+1. Select File->New File
+2. Choose the input file(s).
+3. Choose the dictionary file(s).
+4. Each input file will be displayed on its own line, with missing words highlighted.
+5. Right-click on a highlighted word to display an action menu.
+	a) Select "Add" if you would like to add the word to the dictionary.
+	b) Select "Ignore" if you do not want to add the word to the dictionary.
+	c) Select “Replace” if you would like to replace that instances of this word 
+	    in the original input file.
+6. Follow the same procedure if you have more files, starting with Step 1.
+7. Click the X button on the top right or select File->Close to exit.
