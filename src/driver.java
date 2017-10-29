@@ -11,7 +11,6 @@ public class driver
 	 */
 	public static void main(String[] args) 
 	{
-		
 		display disp = new display();
 		disp.runDisplay();
 	}
